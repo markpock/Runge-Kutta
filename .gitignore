@@ -1,0 +1,9 @@
+/.jython_cache
+/.vscode
+/Function.py
+/hardcoded.py
+/heaviside.py
+/ObjectKutta.py
+/Point.py
+/RungeKutta.java
+/__pycache__
